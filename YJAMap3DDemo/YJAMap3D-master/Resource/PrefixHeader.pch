@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  YJAMap3D-master
+//
+//  Created by EStrongerE023 on 2020/3/10.
+//  Copyright © 2020 EStrongerE023. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "YJUIKit.h"
+#import "YJFoundation.h"
+#import "Masonry.h"
+#import "YJAMap3D.h"
+
+#endif /* PrefixHeader_pch */
